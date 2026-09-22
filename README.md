@@ -87,6 +87,6 @@ python app.py
 
 **Sannith Reddy**
 
-- GitHub: https://github.com/sannith86
+- GitHub: https://github.com/sannith868
 
 ## ⭐ If you found this project useful, please consider giving it a Star!
